@@ -16,4 +16,5 @@ Para poder ejecutar C debe compilarse primero. Uno de los compiladores más popu
 
 * Y finalmente podremos ejecutar
     * ./archivo 
-    
+
+El .h en los archivos de cabera contienen la definición de nuevos tipos de datos y de los prototipos de funciones que se encuentran implementados en alguna librería. 
