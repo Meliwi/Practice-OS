@@ -1,4 +1,4 @@
-# C Crash Course - OS
+# Exercises SO
 
 Hoy en día C sigue manteniendo su vigencia debido a la relevancia y auge que tienen los ambientes IOT. 
 
